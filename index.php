@@ -1,1 +1,0 @@
-<? php "Location: /home.html" ?>
